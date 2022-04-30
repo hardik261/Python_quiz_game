@@ -1,0 +1,16 @@
+asgiref==3.4.1
+backports.entry-points-selectable==1.1.0
+distlib==0.3.3
+Django==3.2.5
+filelock==3.3.1
+numpy==1.21.5
+pandas==1.4.0
+Pillow==9.0.0
+platformdirs==2.4.0
+psycopg2==2.9.3
+python-dateutil==2.8.2
+pytz==2021.1
+six==1.16.0
+sqlparse==0.4.1
+virtualenv==20.9.0
+virtualenvwrapper-win==1.2.6
